@@ -12,6 +12,8 @@ namespace SuperTest
     {
       Console.WriteLine("Jag är en dum konsollapp.");
 
+      Console.WriteLine(SubTest.SubClass.SecretString()); 
+
       Console.ReadLine(); 
     }
   }
