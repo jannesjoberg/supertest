@@ -10,7 +10,7 @@ namespace SuperTest
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Jag är en dum konsollapp.");
+      Console.WriteLine("Jag är en dum konsollapp. Hejhå. ");
 
       Console.WriteLine(SubTest.SubClass.SecretString()); 
 
